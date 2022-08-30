@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sormas for Ghana**
 
-- 🌱 I’m currently learning **The Java Springboot framework**
+- 🌱 I’m currently learning **The Springboot framework**
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I existence is weird but we are here**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Lets Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/just_kojo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just_kojo" height="30" width="40" /></a>
 </p>
