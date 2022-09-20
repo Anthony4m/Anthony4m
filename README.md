@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sormas for Ghana**
 
-- 🌱 I’m currently learning **The Springboot framework**
+- 🌱 I’m currently learning **Springboot framework**
 
 - 👯 I’m looking to collaborate on **fullstack projects**
 
