@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amoahanthony41@gmail.com**
 
-- ⚡ Fun fact **I existence is weird but we are here**
+- ⚡ Fun fact **Existence is weird but we are here**
 
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
